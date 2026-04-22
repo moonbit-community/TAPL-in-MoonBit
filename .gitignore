@@ -3,3 +3,4 @@ target/
 parser.mbt
 parser.mbt.map.json
 lexer.mbt
+_build/
